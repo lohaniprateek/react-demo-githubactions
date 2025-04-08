@@ -2,7 +2,8 @@
   "name": "react-demo",
   "private": true,
   "version": "0.0.0",
-  "type": "module",
+  "type": "module",                                                         
+  "homepage": "https://lohaniprateek.github.io/react-demo-githubactions",                                   
   "scripts": {
     "dev": "vite",
     "build": "vite build",
